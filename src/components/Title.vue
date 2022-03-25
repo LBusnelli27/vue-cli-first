@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "MyTitle",
   data() {
     return {
       msg: "La mia prima app con Vue CLI!",
@@ -18,5 +18,6 @@ export default {
 <style scoped>
 h1 {
   text-align: center;
+  margin-bottom: 3rem;
 }
 </style>
